@@ -19,3 +19,6 @@ Aula 02 de Git
 ## para subir os arquivos
 `git push origin "nome da branch"`
 
+## para Criar novo branch e entrar nele
+`git chekout -b nome-da-branch`
+
